@@ -237,8 +237,8 @@ Below is a suggested stack. You can swap components based on your preferences, b
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/<your-username>/investment-portfolio-website.git
-   cd investment-portfolio-website
+   git clone https://github.com/<your-username>/InvestmentWebsite.git
+   cd InvestmentWebsite
    ```
 
 2. **Backend Setup**
@@ -357,7 +357,7 @@ Below is a suggested stack. You can swap components based on your preferences, b
 ## Directory Structure
 
 ```
-investment-portfolio-website/
+InvestmentWebsite/
 │
 ├── README.md                     # ← You are here
 │
