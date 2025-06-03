@@ -356,6 +356,8 @@ Below is a suggested stack. You can swap components based on your preferences, b
 
 ## Directory Structure
 
+> **Note:** The directories listed below show the intended layout. They may not exist yet in this repository.
+
 ```
 investment-portfolio-website/
 │
